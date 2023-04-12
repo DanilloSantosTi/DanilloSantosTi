@@ -1,9 +1,8 @@
 # 💫 Sobre mim:
   
-  Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2020 com kotlin.Comecei a programar
-  no IFPE(Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco).
-  
-  <b>Atualmente:</b> Trabalho como desenvolvedor Android Junior na Zup Innovation. 
+ Sou um desenvolvedor Android com 2 anos de experiência profissional e apaixonado por tecnologia. Atualmente, estudo no IFPE (Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco).
+ 
+ Desde que iniciei minha jornada como desenvolvedor Android, tenho tido a oportunidade de trabalhar em diversos projetos desafiadores, o que me proporcionou um sólido  conhecimento em Java e Kotlin, as principais linguagens de programação para o desenvolvimento de aplicativos Android. Além disso, também tenho experiência em frameworks e bibliotecas populares, como o Retrofit, Room e Dagger, entre outros.
 
 # 📧 Contato:
 
